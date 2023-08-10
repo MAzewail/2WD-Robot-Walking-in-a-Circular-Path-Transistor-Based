@@ -17,6 +17,8 @@ Welcome to the 2WD Robot Walking in a Circular Path (Transistor-Based) project! 
 
 The 2WD Robot Walking in a Circular Path (Transistor-Based) project is designed to make a 2WD robot walk in a circular trajectory using transistors as switches. By controlling the transistors' states, you can control the movement of the robot's motors, causing it to move in a circular path.
 
+- [Tinkercad link](https://www.tinkercad.com/things/dE1cdP63B9q)
+
 ## Features
 
 - Two-wheel drive robot walking in a circular path.
@@ -35,6 +37,8 @@ To set up and run this project, you will need the following hardware components:
 - Breadboard or PCB for assembling the circuit.
 
 ## Circuit Diagram
+
+- [Tinkercad link](https://www.tinkercad.com/things/dE1cdP63B9q)
 
 ![Circuit Diagram](https://github.com/MAzewail/2WD-Robot-Walking-in-a-Circular-Path-Transistor-Based/blob/main/2WD-Transistor-Based.png)
 
