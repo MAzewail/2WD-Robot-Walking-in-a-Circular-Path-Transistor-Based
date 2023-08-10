@@ -36,7 +36,7 @@ To set up and run this project, you will need the following hardware components:
 
 ## Circuit Diagram
 
-![Circuit Diagram](<>)
+![Circuit Diagram](https://github.com/MAzewail/2WD-Robot-Walking-in-a-Circular-Path-Transistor-Based/blob/main/2WD-Transistor-Based.png)
 
 The circuit diagram above illustrates the connections between the microcontroller board, transistors, motors, and other components. Ensure that you make the appropriate connections based on the diagram when setting up the hardware.
 
